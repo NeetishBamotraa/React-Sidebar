@@ -1,3 +1,3 @@
-# react-hcswm8
+# SideBar Demo          -BY-Neetish
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-hcswm8)
+[View on StackBlitz ⚡️](https://stackblitz.com/edit/neetish-sidebar)
